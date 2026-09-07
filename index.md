@@ -219,6 +219,9 @@ Deletion is entirely in your hands, and it must actually work:
 Because this version sends nothing anywhere (§4), there are no records held by us or by
 anyone else for you to ask us to delete.
 
+See also the [Nightjar data-deletion page](data-deletion.html), which restates this
+section in Google Play's own format, including the deletion-request address.
+
 ## 8. Your rights
 
 If GDPR applies to you, you have the rights of access, rectification, erasure,
